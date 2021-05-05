@@ -1,4 +1,4 @@
-** Purpose of the Dashboard**
+**Purpose of the Dashboard**
     I have Created a Dashboard using IBM Cognos Dashboard Embedded to presents an analysis of a sample of the 2019 Stack Overflow Developer Survey, to identify 
 
 trends in emerging skills. Key areas include:
@@ -7,7 +7,7 @@ trends in emerging skills. Key areas include:
 -A look at future technology trends
 -Insights on current demographic data
 
-** Data Collection**
+**Data Collection**
     Data for this report was collected from a sample of the 2019 Stack Overflow Developer Survey.
     
 **Content Of DashBoard**
