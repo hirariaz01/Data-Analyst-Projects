@@ -1,0 +1,24 @@
+** Purpose of the Dashboard**
+    I have Created a Dashboard using IBM Cognos Dashboard Embedded to presents an analysis of a sample of the 2019 Stack Overflow Developer Survey, to identify 
+
+trends in emerging skills. Key areas include:
+
+-A review of current technology usage
+-A look at future technology trends
+-Insights on current demographic data
+
+** Data Collection**
+    Data for this report was collected from a sample of the 2019 Stack Overflow Developer Survey.
+    
+**Content Of DashBoard**
+     The report shares vital information on current technology trends, future technology trends and key demographics.
+    
+  **Complete Dashboard is available here:** [Tech Dashboard by IBM Cognos](https://dataplatform.cloud.ibm.com/dashboards/80bd800c-fd4a-43b9-a21c-b606efb2a900?project_id=4fbc1342-c8f0-494a-9ec4-84a0a9cfc55a&context=cpdaas&mode=consumption)
+  
+  ** OverAll Findings**
+  -It is clear that technology continues to evolve at a rapid pace
+  -Most developers are concentrated in the America’s and India
+  -Gender gaps remain a serious challenge to the industry, only 6 out of every 100 developers are women
+  -There is a growing move to cloud based solutions such as Amazon Web services and Docker
+  
+  
