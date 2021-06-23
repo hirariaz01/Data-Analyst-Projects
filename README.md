@@ -8,8 +8,7 @@ Tools and language: Tableau, python, SQL, Cognos Analytics
  
  - [Sales Analysis in Tableau](https://github.com/hirariaz01/Data-Analyst-Projects/blob/main/Sales%20Analysis%20in%20Tableau.md)
      Analysis of sales datasets of different cities in united states and building dashboard in tableau
-    <img width="300" width="200" alt="Dashboard" src="https://user-images.githubusercontent.com/25719763/122912317-0eb96a00-d30d-11eb-85af-8d7045676d1d.png">
-    </br>
+   <img width="686" alt="Dashboard - Copy" src="https://user-images.githubusercontent.com/25719763/123095079-80afb300-d3e2-11eb-8f94-ead0f499a1ec.png">
  - [Exploratory Data Analysis](https://github.com/hirariaz01/Data-Analyst-Projects/blob/main/Exploratory_Data_Analysis.ipynb)
      An exploratory data analysis on Car dataset which will identify which charecteristics needs to consider for further analysis in python.
     <br>
