@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-This repository is mainly for projects I have done along my learning journey for Data Wranling,Mining and Visualization. Presented in the form of Python Jupyter Notebooks, and  markdown files.
+This repository is mainly for projects I have done along my learning journey for Data Mining,Wrangling and Visualization. Presented in the form of Python Jupyter Notebooks, and  markdown files.
 
 Tools and language: Tableau, python, SQL, Cognos Analytics
 
