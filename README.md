@@ -8,7 +8,7 @@ Tools and language: Tableau, python, SQL, Cognos Analytics
  
  - [Sales Analysis in Tableau](https://github.com/hirariaz01/Data-Analyst-Projects/blob/main/Sales%20Analysis%20in%20Tableau.md)
      Analysis of sales datasets of different cities in united states and building dashboard in tableau
-   <img width="686" alt="Dashboard - Copy" src="https://user-images.githubusercontent.com/25719763/123095079-80afb300-d3e2-11eb-8f94-ead0f499a1ec.png">
+   <img width="377" alt="Dashboard - Copy" src="https://user-images.githubusercontent.com/25719763/123095079-80afb300-d3e2-11eb-8f94-ead0f499a1ec.png">
  - [Exploratory Data Analysis](https://github.com/hirariaz01/Data-Analyst-Projects/blob/main/Exploratory_Data_Analysis.ipynb)
      An exploratory data analysis on Car dataset which will identify which charecteristics needs to consider for further analysis in python.
     <br>
@@ -23,7 +23,8 @@ Tools and language: Tableau, python, SQL, Cognos Analytics
   - [Technology Trend Analysis](https://github.com/hirariaz01/Data-Analyst-Projects/blob/main/Technology%20Trend%20Analysis%20in%20IBM%20Cognos%20Analytics.md)
     A dashboard build in Cognos Analytics for current and emerging technology trend demographically.
     
-    <img width="354" alt="dashboard" src="https://user-images.githubusercontent.com/25719763/122962281-1b07ec00-d33a-11eb-96df-f5ca23009d09.png">
+    <img width="377" alt="dashboard - Copy" src="https://user-images.githubusercontent.com/25719763/123095762-44c91d80-d3e3-11eb-8608-33a187b56070.png">
+
     
  
 
