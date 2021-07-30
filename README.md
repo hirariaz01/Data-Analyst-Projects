@@ -44,7 +44,9 @@ Tools and language: Tableau, python, SQL, Cognos Analytics
  - [Crime Analysis in Tableau](https://github.com/hirariaz01/Data-Analyst-Projects/blob/main/Chicago%20Crime%20Analysis%20in%20tableau.md)
      Analysis of crime recorded in different areas of chicago and building dashboard in tableau
      <img width="677"  alt="Crime dashboard" src="https://user-images.githubusercontent.com/25719763/123544525-81a95300-d708-11eb-8716-cc8c5751aa30.png">
-  - [Technology Trend Analysis](https://github.com/hirariaz01/Data-Analyst-Projects/blob/main/Technology%20Trend%20Analysis%20in%20IBM%20Cognos%20Analytics.md)
+
+   <h3>IBM Cognos Analytics</h3>
+- [Technology Trend Analysis](https://github.com/hirariaz01/Data-Analyst-Projects/blob/main/Technology%20Trend%20Analysis%20in%20IBM%20Cognos%20Analytics.md)
     A dashboard build in Cognos Analytics for current and emerging technology trend demographically.
     
     <img width="677" alt="IT dashboard" src="https://user-images.githubusercontent.com/25719763/123811820-72610b80-d8a8-11eb-9f5c-920bdeecd49b.png">
