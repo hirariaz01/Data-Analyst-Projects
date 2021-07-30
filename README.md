@@ -23,6 +23,8 @@ Tools and language: Tableau, python, SQL, Cognos Analytics
   - [Exploratory Data Analysis](https://github.com/hirariaz01/Data-Analyst-Projects/blob/main/Exploratory_Data_Analysis.ipynb)
       Libraries Used:Numpy,Pandas,Matplotlib,Seaborn,Scipy  <br>
      An exploratory data analysis on Car datasets for further use in Car Price Predictive Model, which will identify which charecteristics needs to consider for further analysis.
+     
+     <img width="677" alt="carpic1" src="https://user-images.githubusercontent.com/25719763/127665401-fd4480b8-89cb-4b16-b1d5-0259c7680015.png">
     <br>
     
  - [Car Price Predictive Model](https://github.com/hirariaz01/Data-Analyst-Projects/blob/main/CarPrice_Model_Development.ipynb)
