@@ -8,7 +8,7 @@ Tools and language: Tableau, python, SQL, Cognos Analytics
  
  <h3>Python</h3>
  
-  - [Walt Disney Movies Analysis:](https://github.com/hirariaz01/Data-Analyst-Projects/blob/main/StockMarketAnalysis.ipynb)
+  - [Walt Disney Movies Analysis:](https://github.com/hirariaz01/Data-Analyst-Projects/tree/main/Walt-Disney-Movies-Analysis)
    Libraries Used:Numpy,Pandas,Requests,BeautifulSoup,Seaborn.<br>
    This Project is an end-to-end project for Walt Disney Movies. Using Webscrapping and API to collect movie data, then data cleaning and lastly Exploratory Data Analysis of Walt Disney Movies. 
  
